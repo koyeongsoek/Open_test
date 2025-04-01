@@ -30,7 +30,7 @@ class Calculator(QWidget):
 
         self.setLayout(vbox)
 
-        self.setWindowTitle('Calculator')
+        self.setWindowTitle('2022108132_인공지능학과_고영석')
         self.setWindowIcon(QIcon('icon.png'))
         self.resize(256, 256)
         self.show()
